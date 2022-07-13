@@ -1,6 +1,6 @@
 public class Car {
-    String engine;
-    public Car(String engine){
-        this.engine=engine;
+    String engine1;
+    public Car(String engine1){
+        this.engine1=engine1;
     }
 }
